@@ -17,8 +17,8 @@ I'm used to work with these useful tools/libs :
 - ... and i intend to make this list grow as big as i can ! 
 
 ## where to find me ! 
-> 👀 [my old portfolio](https://albanbleicher.fr) (the new one is currently in wip)
-> 👨🏽‍💻 [linkedin](https://linkedin.com/in/albanbleicher)
-> 📧 [mail](mailto:alban.bleicher.edu@gobelins.fr)
+- 👀 [my old portfolio](https://albanbleicher.fr) (the new one is currently in wip)
+- 👨🏽‍💻 [linkedin](https://linkedin.com/in/albanbleicher)
+- 📧 [mail](mailto:alban.bleicher.edu@gobelins.fr)
 
 see you soon ☀️
